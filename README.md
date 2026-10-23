@@ -1,7 +1,6 @@
 # Password Security Audit Tool
 
-A Python-based defensive security tool for auditing password strength using local test data.
-
+Python-based password security auditing tool for analyzing password strength and detecting common weak passwords using local test data.
 ## Features
 
 - Password length analysis
